@@ -1,9 +1,7 @@
 server:
   port: 2333
   address: 0.0.0.0
-
-lavalink: true
-  plugins: true
+  
     - dependency: "dev.lavalink.youtube:youtube-plugin:1.13.5"
       snapshot: false
   server:
